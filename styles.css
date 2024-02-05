@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.gobal-navabar {
+  height: 10pc;
+  width: 100vw;
+  margin: 1px;
+}
+.linkedin-logo {
+  fill: rgb(11, 101, 194);
+}
+.search-logo {
+  width: 5px;
+  height: 5px;
+}
