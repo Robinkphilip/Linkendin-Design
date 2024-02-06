@@ -58,18 +58,13 @@ body{
 .btn-section{
   display:  flex;
   flex-direction: row;
-  margin-top: 10px;
+  margin-top: 5px;
+  margin-left: 100px;
   width: 600px;
   justify-content: space-around;
 }
 .avatar{
   border-radius: 50%;
-}
-.cross-bar{
-  display: flex;
-  flex-direction: column;
-  background-color: black;
-  border-right: 1px black ;
 }
 .icon-text{
   display:  flex ;
@@ -81,5 +76,69 @@ body{
 .icon-row{
   display: flex;
   flex-direction: row;
+}
+
+.main-section{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+
+}
+.left-section{
+margin-left: 60px;
+}
+.profile-section{
   
+  width: 220px;
+ height: 360px;
+ background-color: #ffff;
+ border-radius: 10px;
+ margin: 10px;
+}
+.discover-section{
+   width: 220px;
+   height: 200px;
+   background-color: #ffff;
+  border-radius: 10px;
+  margin: 10px;
+}
+.post-section{
+ width: 600px;
+ height: 500px;
+ background-color: #ffff;
+ margin: 10px;
+ border-radius: 10px;
+ border: #bcb9b9;
+}
+
+.create-post{
+  display: flex;
+  flex-direction: row;
+   width: 600px;
+   height: 110px;
+  margin: 10px;
+  background-color: #ffff;
+  border-radius: 10px;
+ border: #bcb9b9;
+}
+.profile-pic >img{
+  border-radius: 50%;
+}
+.divider-group{
+  display: flex;
+  flex-direction: row;
+}
+.divider-border{
+   width:500px;
+   border-bottom: 1px solid #e8e0e0;
+   margin: 10px;
+}
+.right-section{
+
+ width: 300px;
+ height: 500px;
+ background-color: #ffff;
+ margin: 10px;
+ border-radius: 10px;
+ border: #bcb9b9;
 }
