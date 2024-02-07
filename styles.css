@@ -23,6 +23,7 @@ body{
 .logo-input{
   display: flex;
   flex-direction: row;
+  margin-left: 90px;
 }
 .icon-row{
   display: flex;
