@@ -30,9 +30,7 @@ This project aims to replicate the layout and design of the LinkedIn website's h
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/linkendin-Design
-
-.git
+   git clone https://github.com/your-username/linkendin-Design.git
 2.Navigate to the project directory:
    ```bash
    cd linkendin-Design
